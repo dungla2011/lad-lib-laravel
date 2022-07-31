@@ -1,0 +1,19 @@
+{
+    "name": "lad/laravel_lib",
+    "description": "lad laravel lib",
+    "type": "library",
+    "license": "MIT",
+    "version": "1.0.1",
+    "authors": [
+        {
+            "name": "dungla2011",
+            "email": "dungla2011@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {"LadLib\\": "src/"}
+    },
+    "require": {}
+}
+
