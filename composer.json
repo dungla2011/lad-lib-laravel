@@ -1,6 +1,6 @@
 {
-    "name": "lad/laravel_lib",
-    "description": "lad laravel lib",
+    "name": "lad-lib/laravel",
+    "description": "LAD - Laravel library",
     "type": "library",
     "license": "MIT",
     "version": "1.0.1",
