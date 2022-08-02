@@ -10,7 +10,7 @@ trait TraitModelExtra
      * Get all fields of a table , and return data type of field
      * @return array [fields => data type]
      */
-    public function getTableColumnAndDataType() {
+    public function getTableColumns() {
 
         if($this instanceof Model);
 
