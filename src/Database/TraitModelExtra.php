@@ -6,7 +6,7 @@ use Illuminate\Database\Eloquent\Model;
 
 trait TraitModelExtra
 {
-    /**
+    /** Laravel Version
      * Get all fields of a table , and return data type of field
      * @return array [fields => data type]
      */
@@ -23,5 +23,8 @@ trait TraitModelExtra
         }
         return $ret;
     }
+
+
+
 }
 
